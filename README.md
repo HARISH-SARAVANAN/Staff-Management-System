@@ -1,1 +1,1 @@
-# Staff-Management-System
+Hi,here you can find the full source code for the staff management system.For executing this webpage you need to install xampp server and paste all this files in htdocs folder.After that you have to create the table in the database according to your needs.
